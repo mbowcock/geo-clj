@@ -4,7 +4,7 @@ clojure geocode library
 
 ## Usage
 
-(goog-geocode "123 main street Fairhaven MA 02719" apikey)
+(geo-clj.google/geocode "123 main street Fairhaven MA 02719" apikey)
 
 ## License
 
