@@ -15,7 +15,7 @@
         y (* (java.lang.Math/cos a1) (java.lang.Math/sin a2)
              (java.lang.Math/cos b1) (java.lang.Math/sin b2))
         z (* (java.lang.Math/sin a1) (java.lang.Math/sin b1))]
-  (* (java.lang.Math/acos (+ x y z)) 6371000)))
+  (* (java.lang.Math/acos (+ x y z)) 6366000)))
 
 (defn meters-to-kilometers 
   "Converts meters to kilometers"
