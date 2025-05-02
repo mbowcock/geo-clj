@@ -2,7 +2,6 @@
   (:require [clj-http.client :as client])
   (:require [clojure.data.json :as json]))
 
-;; should this be here ???
 (def url "https://maps.googleapis.com/maps/api/geocode/json")
 
 ;; todo - remove url from here

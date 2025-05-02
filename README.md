@@ -14,4 +14,4 @@ clojure geocode library
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Matt Bowcock
+Copyright (c) 2025 Matt Bowcock
