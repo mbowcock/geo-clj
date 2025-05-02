@@ -2,7 +2,7 @@
 
 clojure geocode library
 
-## Usage
+### Usage
 
 ### geocode an address:
 (geo-clj.google/geocode "123 main street Fairhaven MA 02719")
