@@ -1,8 +1,6 @@
 # geo-clj
 
-Library for calling Google Geocode API. Pass in street level address or point of interest, get back latitude and longitude. Calculations use latitude and longitude for deriving distance between two points. 
-
-** Requires Google API key ** 
+Wrapper for calling Google Geocode API. Pass in street level address or point of interest, get back latitude and longitude. Calculations use latitude and longitude for deriving distance between two points. 
 
 ### Usage
 
