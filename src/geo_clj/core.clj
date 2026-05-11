@@ -4,5 +4,4 @@
 
 (defn -main 
   [& args]
-  (println (goog/geocode "Fairhaven Highschool, Fairhaven MA, 02719"))
-)
+  (println (goog/geocode "Fairhaven Highschool, Fairhaven MA, 02719")))
